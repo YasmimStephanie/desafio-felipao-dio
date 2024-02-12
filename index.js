@@ -21,4 +21,4 @@ if (xp < 1000) {
     nivel = "Radiante"; 
 }
 
-console.log('O héroi de nome ${heroi} está no nível de ${nivel}');
+console.log("O héroi de nome" + heroi + " está no nível " + nivel );
